@@ -3,7 +3,7 @@ This project is dedicated to learning mobile app development. The approach is by
 Apps to create/recreate:
    - Notes App 
          repo: https://github.com/gsubram/Notes
-         source/inspiration: https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page?pivots=windows)
+         source/inspiration: https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page?pivots=windows
    - Weather App (source/inspiration: https://docs.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/weather/)
    - Calculator
    - Email App
