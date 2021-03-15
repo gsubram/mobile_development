@@ -4,7 +4,9 @@ Apps to create/recreate:
    - Notes App 
      - repo: https://github.com/gsubram/Notes
      - source/inspiration: https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page?pivots=windows
-   - Weather App (source/inspiration: https://docs.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/weather/)
+   - Weather App
+     - repo: https://github.com/gsubram/WeatherApp
+     - source/inspiration: https://docs.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/weather/
    - Calculator
    - Email App
    - Chat App
